@@ -1,0 +1,1 @@
+this was my original attempt at making a webapp, that uses raw dat input from the user, then making it into a spreadsheet. the problem is i was learing as i was going and every thing i did was genuine garbage. anyway, this side of the the project isnt worth looking at but i kept for memory sake. the attempt two folder will likeley be much better made. 
